@@ -1,0 +1,109 @@
+baseURL = ""
+languageCode = "es-ES"
+title = "Grado en Ingeniería Matemática"
+theme = "timer-hugo"
+# post pagination
+paginate = "2" # see https://gohugo.io/extras/pagination/
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Descripción"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "Salidas profesionales"
+url = "service/"
+weight = 3
+
+[[menu.main]]
+name = "Aplicaciones"
+url = "gallery/"
+weight = 4
+
+[[menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 5
+
+[[menu.main]]
+name = "Contacto"
+url = "contact/"
+weight = 6
+
+# Site Params
+[params]
+home = "Inicio"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Sitio web del grado en Ingeniería Matemática de la Universidad CEU San Pablo"
+author = "Alf"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable = true
+bgImage = "images/ingenieria-matematica-background.jpg"
+heading = "Bienvenido al grado en Ingeniería Matemática"
+description = "Un grado de nueva creación que combina lo mejor de las Matemáticas, la Ingeniería y la Computación para dar respuesta a los principales retos de nuestra era."
+# button
+btn = true
+btnText = "Descargar el programa"
+btnURL = "https://www.uspceu.com/oferta-formativa/grado/grado-en-ingenieria-matematica"
+
+# flip text
+[[params.banner.flipText]]
+title = "MATEMÁTICAS"
+[[params.banner.flipText]]
+title = "INGENIERÍA"
+[[params.banner.flipText]]
+title = "COMPUTACIÓN"
+[[params.banner.flipText]]
+title = "FINANZAS"
+[[params.banner.flipText]]
+title = "INTELIGENCIA ARTIFICIAL"
+
+# Homepage About Section
+[params.about]
+enable = true
+title = "¿Qué es la Ingeniería Matemática?"
+content = "La Ingeniería Matemática surge en la encrucijada entre las Matemáticas, la Ingeniería y la Computación. <br/>Toma de las Matemáticas todo el potencial de análisis y modelado de problemas, utiliza las técnicas de ingeniería para diseñar y construir soluciones a problemas reales y usa las tecnologías de la computación para implementar esas soluciones.<br/>El grado de Ingeniería Matemática te enseñará a comprender el mundo desde un enfoque matemático, estimulando tu capacidad de abstracción y tu creatividad para que seas capaz de enfrentarte de forma resolutiva a cualquier reto y en cualquier ámbito empresarial.  "
+image = "images/about/grado-ingenieria-matematica.png"
+
+# Call to Action
+[params.cta]
+enable = true
+title = "¿TE INTERESA?"
+content = "Si te interesa este grado, no dudes en contactar con notros para que te informemos con más detalle."
+btnText = "Contacta con nosotros"
+btnURL = "contact/"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable = true
+title = "Aplicaciones reales"
+subtitle = "Estas son algunas de las aplicaciones reales de la Ingeniería Matemática."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
