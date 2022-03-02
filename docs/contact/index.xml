@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Grado en Ingeniería Matemática</title>
-    <link>/contact/</link>
+    <link>https://aprendeconalf.es/grado-ingenieria-matematica/contact/</link>
     <description>Recent content in Contact on Grado en Ingeniería Matemática</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate><atom:link href="https://aprendeconalf.es/grado-ingenieria-matematica/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

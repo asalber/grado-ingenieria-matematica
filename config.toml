@@ -1,5 +1,6 @@
-baseURL = ""
-languageCode = "es-ES"
+baseURL = "https://aprendeconalf.es/grado-ingenieria-matematica/"
+defaultContentLanguage = "es"
+languageCode = "es"
 title = "Grado en Ingeniería Matemática"
 theme = "timer-hugo"
 # post pagination
