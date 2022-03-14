@@ -1,4 +1,4 @@
-baseURL = "https://aprendeconalf.es/grado-ingenieria-matematica/"
+baseURL = "https://aprendeconalf.es/grado-ingenieria-matematica"
 defaultContentLanguage = "es"
 languageCode = "es"
 title = "Grado en Ingeniería Matemática"
@@ -16,17 +16,17 @@ weight = 1
 
 [[menu.main]]
 name = "Descripción"
-url = "about/"
+url = "https://aprendeconalf.es/grado-ingenieria-matematica#about"
 weight = 2
 
 [[menu.main]]
 name = "Salidas profesionales"
-url = "service/"
+url = "https://aprendeconalf.es/grado-ingenieria-matematica#feature"
 weight = 3
 
 [[menu.main]]
 name = "Aplicaciones"
-url = "gallery/"
+url = "https://aprendeconalf.es/grado-ingenieria-matematica#works"
 weight = 4
 
 [[menu.main]]
@@ -36,7 +36,7 @@ weight = 5
 
 [[menu.main]]
 name = "Contacto"
-url = "contact/"
+url = "https://www.uspceu.com/contacto"
 weight = 6
 
 # Site Params
