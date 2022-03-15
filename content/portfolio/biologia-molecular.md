@@ -3,9 +3,9 @@ title: Predicción del efecto de fármacos
 type: portfolio
 date: 
 description : 
-caption: Biología molecular
+caption: Biotecnología
 image: images/portfolio/corazon.jpg
-category: ["Medicina", "Farmacia", "Biología molecular"]
+category: ["Biotecnología", "Medicina", "Farmacia"]
 ---
 
 La biología molecular utiliza modelos basados en ecuaciones diferenciales a diferentes escalas para predecir el efecto de los medicamentos en distintos órganos. 

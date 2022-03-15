@@ -29,14 +29,14 @@ name = "Aplicaciones"
 url = "https://aprendeconalf.es/grado-ingenieria-matematica#works"
 weight = 4
 
-[[menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 5
+# [menu.main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 5
 
 [[menu.main]]
 name = "Contacto"
-url = "https://www.uspceu.com/contacto"
+url = "https://www.uspceu.com/solicitud-de-informacion"
 weight = 6
 
 # Site Params
@@ -88,7 +88,7 @@ enable = true
 title = "¿TE INTERESA?"
 content = "Si te interesa este grado, no dudes en contactar con notros para que te informemos con más detalle."
 btnText = "Contacta con nosotros"
-btnURL = "contact/"
+btnURL = "https://www.uspceu.com/contacto"
 
 # Portfolio Section On Homepage
 [params.portfolio]
@@ -99,12 +99,16 @@ subtitle = "Estas son algunas de las aplicaciones reales de la Ingeniería Matem
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://es-es.facebook.com/USPCEU"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
+url = "https://www.instagram.com/universidad_ceu_sanpablo/"
 
 [[params.socialIcon]]
 icon = "ion-social-linkedin"
-url = "#"
+url = "https://www.linkedin.com/school/universidad-san-pablo-ceu/"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "https://twitter.com/USPCEU"

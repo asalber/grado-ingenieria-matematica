@@ -3,7 +3,7 @@ title: Valoración de instrumentos financieros derivados
 type: portfolio
 date: 
 description : 
-caption: Fondos de inversión
+caption: Finanzas
 image: images/portfolio/derivados-financieros.jpg
 category: ["Banca", "Finanzas"]
 ---

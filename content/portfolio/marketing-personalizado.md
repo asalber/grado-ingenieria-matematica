@@ -3,9 +3,9 @@ title: Marketing personalizado
 type: portfolio
 date: 
 description : 
-caption: Comercio electrónico
+caption: Marketing
 image: images/portfolio/marketing.jpg
-category: ["Comercio", "Banca", "Telecomunicaciones", "Energía", "Industria"]
+category: ["Marketing", "Comercio", "Banca"]
 ---
 
 En el ámbito del comercio electrónico las grandes empresas suelen utilizar algoritmos que clasifican a los clientes en distintos perfiles según sus compras o las páginas web que visita, para ofrecerle publicidad personalizada.

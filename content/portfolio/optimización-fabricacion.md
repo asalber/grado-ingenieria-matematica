@@ -3,9 +3,9 @@ title: Optimización de procesos de fabricación
 type: portfolio
 date: 
 description : 
-caption: Industria farmacéutica
+caption: Biotecnología
 image: images/portfolio/fabricacion-farmacos.jpg
-category: ["Industria", "Farmacia", "Biotecnología"]
+category: ["Biotecnología", "Industria", "Farmacia"]
 ---
 
 Uno de los problemas más comunes en la fabricación de cualquier producto es la optimización de los recursos para obtener el máximo beneficio con el menor coste. 

@@ -3,9 +3,9 @@ title: Optimización logística
 type: portfolio
 date: 
 description : 
-caption: Transporte
+caption: Logística
 image: images/portfolio/autobus-escolar.jpg
-category: ["Transporte", "Logística", "Comunicaciones"]
+category: ["Logística", "Transporte", "Comunicaciones"]
 ---
 
 Hoy en día las empresas como Amazon o Uber organizan sus procesos de reparto mediante algoritmos matemáticos basados en el análisis de grafos para optimizar costes, rapidez y satisfacción de los clientes.

@@ -19,6 +19,10 @@ item    :
   - icon  : images/icons/comercio-blanco.png
     title : Comercio electrónico
     description : 
+  
+  - icon  : images/icons/marketing-blanco.png
+    title : Marketing
+    description : 
 
   - icon  : images/icons/seguridad-blanco.png
     title : Seguridad
