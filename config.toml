@@ -20,24 +20,29 @@ url = "https://aprendeconalf.es/grado-ingenieria-matematica#about"
 weight = 2
 
 [[menu.main]]
+name = "Plan de Estudios"
+url = "plan-estudios/"
+weight = 3
+
+[[menu.main]]
 name = "Salidas profesionales"
 url = "https://aprendeconalf.es/grado-ingenieria-matematica#feature"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Aplicaciones"
 url = "https://aprendeconalf.es/grado-ingenieria-matematica#works"
-weight = 4
+weight = 5
 
 # [menu.main]]
 # name = "Blog"
 # url = "blog/"
-# weight = 5
+# weight = 6
 
 [[menu.main]]
 name = "Contacto"
 url = "https://www.uspceu.com/solicitud-de-informacion"
-weight = 6
+weight = 7
 
 # Site Params
 [params]
