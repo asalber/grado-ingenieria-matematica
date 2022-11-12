@@ -6,6 +6,7 @@ description :
 caption: Ganadería
 image: images/portfolio/vacas.jpg
 category: ["Ganadería", "Agricultura"]
+lang: es-ES
 ---
 
 La gestión de una granja lechera depende múltiples factores como la lluvia, la cantidad de pastos disponibles o el precio de los sustitutos (soja o maiz). 

@@ -6,6 +6,7 @@ description :
 caption: Telecomunicaciones
 image: images/portfolio/segmentacion-clientes.png
 category: ["Marketing", "Comercio", "Banca", "Telecomunicaciones"]
+lang: es-ES
 ---
 
 Una aplicación típica en cualquier empresa es a segmentación de clientes.

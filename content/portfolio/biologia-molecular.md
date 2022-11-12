@@ -6,6 +6,7 @@ description :
 caption: Biotecnología
 image: images/portfolio/corazon.jpg
 category: ["Biotecnología", "Medicina", "Farmacia"]
+lang: es-ES
 ---
 
 La biología molecular utiliza modelos basados en ecuaciones diferenciales a diferentes escalas para predecir el efecto de los medicamentos en distintos órganos. 

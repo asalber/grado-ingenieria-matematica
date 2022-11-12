@@ -6,6 +6,7 @@ description :
 caption: Seguros
 image: images/portfolio/riesgos-seguros.jpg
 category: ["Seguros", "Banca", "Finanzas"]
+lang: es-ES
 ---
 
 En el ámbito de las ciencias actuariales, la teoría de la probabilidad y los modelos estocásticos permite analizar los riesgos inherentes a una póliza de seguros y fijar el precio más adecuado para ella.

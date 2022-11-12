@@ -6,6 +6,7 @@ description :
 caption: Meteorología
 image: images/portfolio/tormenta.jpg
 category: ["Meteorología", "Ecología"]
+lang: es-ES
 ---
 
 La ingeniería Matemática juega también un papel transcendental en la predicción de fenómenos meteorológicos y más recientemente en la predicción de las consecuencias del cambio climático. 

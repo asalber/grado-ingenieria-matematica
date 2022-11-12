@@ -6,6 +6,7 @@ description :
 caption: Biotecnología
 image: images/portfolio/fabricacion-farmacos.jpg
 category: ["Biotecnología", "Industria", "Farmacia"]
+lang: es-ES
 ---
 
 Uno de los problemas más comunes en la fabricación de cualquier producto es la optimización de los recursos para obtener el máximo beneficio con el menor coste. 

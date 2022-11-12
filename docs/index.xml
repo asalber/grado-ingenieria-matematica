@@ -8,6 +8,15 @@
     <language>es</language>
     <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate><atom:link href="https://aprendeconalf.es/grado-ingenieria-matematica/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Código QR</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/qr/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/qr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plan de Estudios</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/plan-estudios/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
@@ -49,6 +58,16 @@ Tras la compra de un producto o servicio, el consumidor puede publicar en redes 
     </item>
     
     <item>
+      <title>Buscadores de información</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/buscadores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/buscadores/</guid>
+      <description>Todos los buscadores de información en Internet utilizan sofisticados algoritmos de búsquedas para obtener un ranking de con las páginas más relevantes según los términos introducidos en las búsquedas.
+Google, por ejemplo utiliza su famoso algoritmo PageRank donde cada página web representa un nodo de un gigantesco grafo de miles de millones de nodos, y los hipervínculos de las páginas web son enlaces entre estos nodos, de manera que una página tiene mayor relevancia cuanto más enlaces llegan a ella.</description>
+    </item>
+    
+    <item>
       <title>Creación y gestión de carteras</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/gestion-carteras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,7 +82,7 @@ Tras la compra de un producto o servicio, el consumidor puede publicar en redes 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/diagnostico-enfermedades/</guid>
-      <description>Otra aplicación médica es el estudio del desarrollo de enfermades mediante modelos matemáticos, como por ejemplo el uso de modelos depredador-presa basados en ecuaciones en derivadas parciales para explorar la tendencia al crecimiento rápido de ciertos tipos de tumores malignos.</description>
+      <description>Otra aplicación médica es el estudio del desarrollo de enfermedades mediante modelos matemáticos, como por ejemplo el uso de modelos depredador-presa basados en ecuaciones en derivadas parciales para explorar la tendencia al crecimiento rápido de ciertos tipos de tumores malignos.</description>
     </item>
     
     <item>
@@ -121,6 +140,15 @@ Amazon, por ejemplo, utiliza utiliza técnicas de minería de datos para estable
       
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/modelizacion-enfermedades/</guid>
       <description>Otra aplicación médica es el estudio del desarrollo de enfermedades mediante modelos matemáticos, como por ejemplo el uso de modelos depredador-presa basados en ecuaciones en derivadas parciales para explorar la tendencia al crecimiento rápido de ciertos tipos de tumores malignos.</description>
+    </item>
+    
+    <item>
+      <title>Navegadores</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/navegadores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/navegadores/</guid>
+      <description>Los navegadores de nuestros teléfonos móviles o de nuestros vehículos utilizan potentes algoritmos para buscar el mejor camino entre dos puntos geográficos. Estos algoritmos representan las ubicaciones mediante vértices de un grafo, mientras que los caminos se representan como los arcos entre estos vértices. La determinación del camino óptimo depende de múltiples factores, como el medio de transporte, el tráfico actual, el consumo energético, las emisiones de CO2, y para encontrarlo se utilizan técnicas de optimización con múltiples restricciones.</description>
     </item>
     
     <item>
@@ -207,7 +235,7 @@ En el mundo de las telecomunicaciones, por ejemplo, la empresa MAS Movil aplica 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/valoracion-inmuebles/</guid>
-      <description>La valoración de inmuebles y el coste de los alquileres pueden ser perfectamente puestos en equivalencia mediante modelos matemáticos a través de una renta perpetua. Si asumimos que un inmueble tiene una vida indefinida, el valor actual de los alquileres cobrados puede perfectamente identificarnos si un inmueble está por encima o por debajo de su valor teórico y, por tanto, señalizarnos si es o no una oportunidad de compra.</description>
+      <description>La valoración de inmuebles y el coste de los alquileres pueden ser perfectamente puestos en equivalencia mediante modelos matemáticos a través de una renta perpetua. Si asumimos que un inmueble tiene una vida indefinida, el valor actual de los alquileres cobrados puede perfectamente identificarnos si un inmueble está por encima o por debajo de su valor teórico y, por tanto, indicarnos si es o no una oportunidad de compra.</description>
     </item>
     
   </channel>

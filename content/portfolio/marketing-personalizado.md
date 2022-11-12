@@ -6,6 +6,7 @@ description :
 caption: Marketing
 image: images/portfolio/marketing.jpg
 category: ["Marketing", "Comercio", "Banca"]
+lang: es-ES
 ---
 
 En el ámbito del comercio electrónico las grandes empresas suelen utilizar algoritmos que clasifican a los clientes en distintos perfiles según sus compras o las páginas web que visita, para ofrecerle publicidad personalizada.

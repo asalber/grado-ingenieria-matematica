@@ -6,6 +6,7 @@ description :
 caption: Genética
 image: images/portfolio/gen.jpg
 category: ["Genética", "Biotecnología", "Ecología"]
+lang: es-ES
 ---
 
 La lucha contra pérdida de la biodiversidad es otro de los grandes retos de nuestra era. Evaluar la pérdida de biodiversidad requiere medir la diversidad no solo de especies, sino también de diferentes genes dentro de poblaciones individuales, para ver si esta diversidad genética también se está perdiendo. El volumen de información a estudiar es tan grande que solo se puede abordar mediante técnicas de minería de datos masivos (big data). 

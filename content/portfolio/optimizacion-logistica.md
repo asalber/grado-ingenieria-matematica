@@ -6,6 +6,7 @@ description :
 caption: Logística
 image: images/portfolio/autobus-escolar.jpg
 category: ["Logística", "Transporte", "Comunicaciones"]
+lang: es-ES
 ---
 
 Hoy en día las empresas como Amazon o Uber organizan sus procesos de reparto mediante algoritmos matemáticos basados en el análisis de grafos para optimizar costes, rapidez y satisfacción de los clientes.

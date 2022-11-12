@@ -6,6 +6,7 @@ description :
 caption: Biotecnología
 image: images/portfolio/diseño-farmacos.jpg
 category: ["Biotecnología", "Farmacia"]
+lang: es-ES
 ---
 
 La predicción preclínica de la toxicidad de un fármaco reduce los costes de desarrollo y aumenta la seguridad del paciente. Los modelos de predicción se pueden construir utilizando ensayos in vitro y las propiedades fisicoquímicas de los compuestos. 

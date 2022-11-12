@@ -6,6 +6,7 @@ description :
 caption: Industria aeronáutica
 image: images/portfolio/avion.jpg
 category: ["Industria", "Aeronáutica", "Aeroespacial", "Automoción"]
+lang: es-ES
 ---
 
 El diseño de piezas en determinadas industrias, como la automovilística o la aeroespacial, también se realiza mediante modelos matemáticos.
