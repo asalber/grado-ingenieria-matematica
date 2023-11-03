@@ -54,7 +54,7 @@ Después de la crisis de 2008, la Unión Europea aprobó nuevos y estrictos requ
       
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/analisis-sentimientos/</guid>
       <description>Otra aplicación de la Inteligencia Artificial, en concreto técnicas de procesamiento de lenguaje natural, es la transformación del texto en sentimiento.
-Tras la compra de un producto o servicio, el consumidor puede publicar en redes sociales un comentario haciendo alusión a su satisfacción o rechazo. Es evidente que la lectura y codificación de todos los mensajes no es viable puesto que estaríamos ante un problema inabarcable. Para ello se recurre a algoritmos de procesamiento del lenguaje natural y aprendizaje automático que son capaces de transformar cada comentario en un sentimiento positivo, negativo o neutro hacia un determinado producto o servicio.</description>
+Tras la compra de un producto o servicio, el consumidor puede publicar en redes sociales un comentario haciendo alusión a su satisfacción o rechazo. Es evidente que la lectura y codificación de todos los mensajes no es viable, puesto que estaríamos ante un problema inabarcable. Para ello se recurre a algoritmos de procesamiento del lenguaje natural y aprendizaje automático que son capaces de transformar cada comentario en un sentimiento positivo, negativo o neutro hacia un determinado producto o servicio.</description>
     </item>
     
     <item>
@@ -131,6 +131,16 @@ El diseño de un avión, por ejemplo, requiere de sistemas extintores de fuego e
       
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/demanda-electrica/</guid>
       <description>Desde hace tiempo las empresas eléctricas utilizan complejos modelos matemáticos basados en probabilidad y series temporales para predecir la demanda eléctrica a corto y medio plazo y poder dimensionar la producción, así como la compra de energía en el mercado mayorista.</description>
+    </item>
+    
+    <item>
+      <title>Inteligencia Artificial generativa</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/inteligencia-artificial-generativa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/inteligencia-artificial-generativa/</guid>
+      <description>Con la llegada de ChatGPT la Inteliencia Artificial generativa se ha puesto de moda y ha empezado a utilizarse en casi todos los trabajos que requieren crear nuevos contenidos e ideas, como conversaciones, textos, imágenes, videos y música.
+Como cualquier otro tipo de inteligencia artificial, la IA generativa se basa en modelos matemáticos de aprendizaje automático (machine learning). ChatGPT por ejemplo, es una gigantesca red neuronal con más de 175 millones de parámetros que se ha entrenado con textos publicados en todo Internet, desde artículos de noticias, pasando por enciclopedias, libros, páginas web y otros documentos.</description>
     </item>
     
     <item>
@@ -218,6 +228,16 @@ La Agencia Europea de Meteorología utiliza técnicas de minería de datos para 
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/biologia-molecular/</guid>
       <description>La biología molecular utiliza modelos basados en ecuaciones diferenciales a diferentes escalas para predecir el efecto de los medicamentos en distintos órganos.
 Por ejemplo, la empresa biotecnológica United Therapeutics utiliza este tipo de modelos para predecir el efecto de un fármaco vasodilatador mediante el modelado de su efecto en las redes de reacciones bioquímicas dentro de las células del músculo liso, y luego lo combinan con un modelo CFD de flujo sanguíneo para predecir resultados clínicos como la presión arterial y la resistencia vascular.</description>
+    </item>
+    
+    <item>
+      <title>Reconocimiento de imágenes</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/reconocimiento-imagenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/reconocimiento-imagenes/</guid>
+      <description>Una aplicación donde las redes neuronales profundas (deep learning) sobresalen es en el reconocimiento de imágenes. Una red neuronal es una modelo matemático computacional que trata de reproducir el sistema neuronal humano. La red neuronal se entrena proporcionándole imágenes previamente clasificadas y aprende a clasificar nuevas imágenes.
+El reconocimiento automático de imágenes tiene actualmente multitud de aplicaciones, como es el caso del reconocimiento facial para garantizar el acceso seguro a un recurso, la detección de tumores en radiografías, el reconocimiento óptico de caracteres (OCR) en textos escritos a mano, la identificación de los obstáculos y la señalización en un vehículo autónomo, detección de objetos estelares en el cielo profundo o detección del estrés hídrico de una plantación mediante imágenes infrarrojas.</description>
     </item>
     
     <item>
