@@ -6,267 +6,203 @@
     <description>Recent content on Grado en Ingeniería Matemática</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate><atom:link href="https://aprendeconalf.es/grado-ingenieria-matematica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aprendeconalf.es/grado-ingenieria-matematica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recortes de prensa</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/prensa/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/prensa/</guid>
+      <description>Un nuevo estudio de la UNESCO destaca el papel vital de los matemáticos para afrontar los retos contemporáneos La alta empleabilidad dispara la demanda para estudiar Matemáticas La carrera de Matemáticas se dispara en plena era del Big Data ¿Porqué los matemáticos están tan solicitados? ¿Te gustan las Matemáticas? Son el futuro del empleo digital La alta demanda de matemáticos deja sin cubrir cientos de plazas de profesores Faltan profesores de matemáticas: &amp;ldquo;Ahora se apuesta más por la inteligencia artificial y nuevas tecnologías&amp;rdquo; Las Matemáticas: una carrera con futuro Formas en que las matemáticas pueden salvar el mundo </description>
+    </item>
     <item>
       <title>Código QR</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/qr/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/qr/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Plan de Estudios</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/plan-estudios/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/plan-estudios/</guid>
       <description> classDiagram class PRIMERO PRIMERO: Fundamentos de Matemáticas (3) PRIMERO: Algebra (9) PRIMERO: Análisis I (6) PRIMERO: Matemática Discreta (6) PRIMERO: Programación (6) PRIMERO: Análisis II (6) PRIMERO: Probabilidad y Estadística (6) PRIMERO: Algoritmos y Estructuras de Datos (9) PRIMERO: Claves de Historia Contemporanea (6) PRIMERO: Proyecto I (3) class SEGUNDO SEGUNDO: Análisis III (6) SEGUNDO: Ecuaciones Diferenciales y en Diferencias (6) SEGUNDO: Bases de Datos (6) SEGUNDO: Estadística Inferencial (6) SEGUNDO: Fundamentos Económicos (6) SEGUNDO: Métodos Numéricos I (6) SEGUNDO: Ecuaciones en Derivadas Parciales (6) SEGUNDO: Análisis de Datos (6) SEGUNDO: Electrónica Digital y Arquitectura de Ordenadores (6) SEGUNDO: Geometría Diferencial (3) SEGUNDO: Proyecto II (3) class TERCERO_1S TERCERO_1S: Métodos Numéricos II (6) TERCERO_1S: Optimización (6) TERCERO_1S: Sistemas Operativos y Redes de Ordenadores (6) TERCERO_1S: Hombre y Mundo Moderno (6) TERCERO_1S: Optativas (6) class TERCERO_2S_IA TERCERO_2S_IA: Aprendizaje Automático (6) TERCERO_2S_IA: Computación en Paralelo (6) TERCERO_2S_IA: Lógica Formal (6) TERCERO_2S_IA: Teoría de la Computación (6) TERCERO_2S_IA: Fundamentos de la Inteligencia Artificial (6) class TERCERO_2S_ACF TERCERO_2S_ACF: Aprendizaje Automático (6) TERCERO_2S_ACF: Computación en Paralelo (6) TERCERO_2S_ACF: Cálculo Estocástico (6) TERCERO_2S_ACF: Matemática Financiera I (6) TERCERO_2S_ACF: Matemáticas Actuariales (6) class CUARTO_IA CUARTO_IA: Programación Lógica (6) CUARTO_IA: Programación Funcional (6) CUARTO_IA: Percepción Computacional (6) CUARTO_IA: Procesamiento del Lenguaje Natural (6) CUARTO_IA: Administración de Sistemas (6) CUARTO_IA: Doctrina Social de la Iglesia (6) CUARTO_IA: Optativa (3) CUARTO_IA: Prácticas Externas (12) CUARTO_IA: Trabajo Fin de Grado (9) class CUARTO_ACF CUARTO_ACF: Matemática Financiera II (6) CUARTO_ACF: Minería de Datos y Big Data (6) CUARTO_ACF: Modelos de Riesgo Cuantitativo (6) CUARTO_ACF: Teoría y Optimización de Carteras (6) CUARTO_ACF: Series Temporales (6) CUARTO_ACF: Doctrina Social de la Iglesia (6) CUARTO_ACF: Optativa (3) CUARTO_ACF: Prácticas Externas (12) CUARTO_ACF: Trabajo Fin de Grado (9) PRIMERO --|&gt; SEGUNDO SEGUNDO --|&gt; TERCERO_1S TERCERO_1S --|&gt; TERCERO_2S_IA TERCERO_1S --|&gt; TERCERO_2S_ACF TERCERO_2S_IA --|&gt; CUARTO_IA TERCERO_2S_ACF --|&gt; CUARTO_ACF </description>
     </item>
-    
     <item>
       <title>How To Setup Timer Hugo</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/blog/installation/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation
-STEP-2 : Create your project Hugo provides a new command to create a new website.
-hugo new site &amp;lt;new_project&amp;gt; STEP-3 : Install the theme Run this command
-hugo new site timer-hugo and then go to the themes folder inside of timer-hugo folder. You can also use this command cd timer-hugo/themes for going to this folder.</description>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation&#xA;STEP-2 : Create your project Hugo provides a new command to create a new website.&#xA;hugo new site &amp;lt;new_project&amp;gt; STEP-3 : Install the theme Run this command&#xA;hugo new site timer-hugo and then go to the themes folder inside of timer-hugo folder. You can also use this command cd timer-hugo/themes for going to this folder.</description>
     </item>
-    
     <item>
       <title>Análisis de riesgos en seguros</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/riesgos-seguros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/riesgos-seguros/</guid>
-      <description>En el ámbito de las ciencias actuariales, la teoría de la probabilidad y los modelos estocásticos permite analizar los riesgos inherentes a una póliza de seguros y fijar el precio más adecuado para ella.
-Después de la crisis de 2008, la Unión Europea aprobó nuevos y estrictos requisitos de solvencia (Solvencia II) para garantizar que la industria de seguros tenga los recursos necesarios para evitar o mitigar futuras crisis como esta.</description>
+      <description>En el ámbito de las ciencias actuariales, la teoría de la probabilidad y los modelos estocásticos permite analizar los riesgos inherentes a una póliza de seguros y fijar el precio más adecuado para ella.&#xA;Después de la crisis de 2008, la Unión Europea aprobó nuevos y estrictos requisitos de solvencia (Solvencia II) para garantizar que la industria de seguros tenga los recursos necesarios para evitar o mitigar futuras crisis como esta.</description>
     </item>
-    
     <item>
       <title>Análisis de sentimientos</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/analisis-sentimientos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/analisis-sentimientos/</guid>
-      <description>Otra aplicación de la Inteligencia Artificial, en concreto técnicas de procesamiento de lenguaje natural, es la transformación del texto en sentimiento.
-Tras la compra de un producto o servicio, el consumidor puede publicar en redes sociales un comentario haciendo alusión a su satisfacción o rechazo. Es evidente que la lectura y codificación de todos los mensajes no es viable, puesto que estaríamos ante un problema inabarcable. Para ello se recurre a algoritmos de procesamiento del lenguaje natural y aprendizaje automático que son capaces de transformar cada comentario en un sentimiento positivo, negativo o neutro hacia un determinado producto o servicio.</description>
+      <description>Otra aplicación de la Inteligencia Artificial, en concreto técnicas de procesamiento de lenguaje natural, es la transformación del texto en sentimiento.&#xA;Tras la compra de un producto o servicio, el consumidor puede publicar en redes sociales un comentario haciendo alusión a su satisfacción o rechazo. Es evidente que la lectura y codificación de todos los mensajes no es viable, puesto que estaríamos ante un problema inabarcable. Para ello se recurre a algoritmos de procesamiento del lenguaje natural y aprendizaje automático que son capaces de transformar cada comentario en un sentimiento positivo, negativo o neutro hacia un determinado producto o servicio.</description>
     </item>
-    
     <item>
       <title>Buscadores de información</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/buscadores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/buscadores/</guid>
-      <description>Todos los buscadores de información en Internet utilizan sofisticados algoritmos de búsquedas para obtener un ranking de con las páginas más relevantes según los términos introducidos en las búsquedas.
-Google, por ejemplo utiliza su famoso algoritmo PageRank donde cada página web representa un nodo de un gigantesco grafo de miles de millones de nodos, y los hipervínculos de las páginas web son enlaces entre estos nodos, de manera que una página tiene mayor relevancia cuanto más enlaces llegan a ella.</description>
+      <description>Todos los buscadores de información en Internet utilizan sofisticados algoritmos de búsquedas para obtener un ranking de con las páginas más relevantes según los términos introducidos en las búsquedas.&#xA;Google, por ejemplo utiliza su famoso algoritmo PageRank donde cada página web representa un nodo de un gigantesco grafo de miles de millones de nodos, y los hipervínculos de las páginas web son enlaces entre estos nodos, de manera que una página tiene mayor relevancia cuanto más enlaces llegan a ella.</description>
     </item>
-    
     <item>
       <title>Creación y gestión de carteras</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/gestion-carteras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/gestion-carteras/</guid>
       <description>Iniciada en 1950 por Harry Markowitz (premio Nobel 1990), la denominada teoría de carteras utiliza modelos econométricos para analizar cómo invertir de manera óptima en activos financieros, como por ejemplo acciones y títulos de renta fija.</description>
     </item>
-    
     <item>
       <title>Criptografía y seguridad informática</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/criptografia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/criptografia/</guid>
-      <description>La criptografía (del griego κρύπτos (kryptós), &amp;ldquo;secreto&amp;rdquo;, y γραφή (graphé), &amp;ldquo;grafo&amp;rdquo;, literalmente &amp;ldquo;escritura secreta&amp;rdquo;), es otra rama de las Matemáticas que es la responsable de garantizar la seguridad en las comunicaciones.
-En la historia reciente, la criptografía ha jugado un papel decisivo en eventos como la segunda guerra mundial donde Alan Turing desarrollo un algoritmo para descifrar las comunicaciones secretas que el ejército alemán realizaba a través de su famosa máquina enigma.</description>
+      <description>La criptografía (del griego κρύπτos (kryptós), &amp;ldquo;secreto&amp;rdquo;, y γραφή (graphé), &amp;ldquo;grafo&amp;rdquo;, literalmente &amp;ldquo;escritura secreta&amp;rdquo;), es otra rama de las Matemáticas que es la responsable de garantizar la seguridad en las comunicaciones.&#xA;En la historia reciente, la criptografía ha jugado un papel decisivo en eventos como la segunda guerra mundial donde Alan Turing desarrollo un algoritmo para descifrar las comunicaciones secretas que el ejército alemán realizaba a través de su famosa máquina enigma.</description>
     </item>
-    
     <item>
       <title>Diagnóstico de enfermedades</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/diagnostico-enfermedades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/diagnostico-enfermedades/</guid>
       <description>Otra aplicación médica es el estudio del desarrollo de enfermedades mediante modelos matemáticos, como por ejemplo el uso de modelos depredador-presa basados en ecuaciones en derivadas parciales para explorar la tendencia al crecimiento rápido de ciertos tipos de tumores malignos.</description>
     </item>
-    
     <item>
       <title>Diseño de fármacos</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/dise%C3%B1o-farmacos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/dise%C3%B1o-farmacos/</guid>
-      <description>La predicción preclínica de la toxicidad de un fármaco reduce los costes de desarrollo y aumenta la seguridad del paciente. Los modelos de predicción se pueden construir utilizando ensayos in vitro y las propiedades fisicoquímicas de los compuestos.
-La farmacéutica AstraZeneca ha desarrollado una red neuronal bayesiana para predecir la lesión hepática inducida por fármacos.</description>
+      <description>La predicción preclínica de la toxicidad de un fármaco reduce los costes de desarrollo y aumenta la seguridad del paciente. Los modelos de predicción se pueden construir utilizando ensayos in vitro y las propiedades fisicoquímicas de los compuestos.&#xA;La farmacéutica AstraZeneca ha desarrollado una red neuronal bayesiana para predecir la lesión hepática inducida por fármacos.</description>
     </item>
-    
     <item>
       <title>Diseño industrial</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/dise%C3%B1o-industrial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/dise%C3%B1o-industrial/</guid>
-      <description>El diseño de piezas en determinadas industrias, como la automovilística o la aeroespacial, también se realiza mediante modelos matemáticos.
-El diseño de un avión, por ejemplo, requiere de sistemas extintores de fuego en zonas de geometría compleja como son los motores de avión. Desde la difusión no lineal conocida como medios porosos, los ingenieros de AIRBUS, dieron solución a un problema de gran dificultad teórica como es el comportamiento casi impredecible de un gas extintor.</description>
+      <description>El diseño de piezas en determinadas industrias, como la automovilística o la aeroespacial, también se realiza mediante modelos matemáticos.&#xA;El diseño de un avión, por ejemplo, requiere de sistemas extintores de fuego en zonas de geometría compleja como son los motores de avión. Desde la difusión no lineal conocida como medios porosos, los ingenieros de AIRBUS, dieron solución a un problema de gran dificultad teórica como es el comportamiento casi impredecible de un gas extintor.</description>
     </item>
-    
     <item>
       <title>Estudio de la biodiversidad</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/genetica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/genetica/</guid>
       <description>La lucha contra pérdida de la biodiversidad es otro de los grandes retos de nuestra era. Evaluar la pérdida de biodiversidad requiere medir la diversidad no solo de especies, sino también de diferentes genes dentro de poblaciones individuales, para ver si esta diversidad genética también se está perdiendo. El volumen de información a estudiar es tan grande que solo se puede abordar mediante técnicas de minería de datos masivos (big data).</description>
     </item>
-    
     <item>
       <title>Gestión de la demanda eléctrica</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/demanda-electrica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/demanda-electrica/</guid>
       <description>Desde hace tiempo las empresas eléctricas utilizan complejos modelos matemáticos basados en probabilidad y series temporales para predecir la demanda eléctrica a corto y medio plazo y poder dimensionar la producción, así como la compra de energía en el mercado mayorista.</description>
     </item>
-    
     <item>
       <title>Inteligencia Artificial generativa</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/inteligencia-artificial-generativa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/inteligencia-artificial-generativa/</guid>
-      <description>Con la llegada de ChatGPT la Inteliencia Artificial generativa se ha puesto de moda y ha empezado a utilizarse en casi todos los trabajos que requieren crear nuevos contenidos e ideas, como conversaciones, textos, imágenes, videos y música.
-Como cualquier otro tipo de inteligencia artificial, la IA generativa se basa en modelos matemáticos de aprendizaje automático (machine learning). ChatGPT por ejemplo, es una gigantesca red neuronal con más de 175 millones de parámetros que se ha entrenado con textos publicados en todo Internet, desde artículos de noticias, pasando por enciclopedias, libros, páginas web y otros documentos.</description>
+      <description>Con la llegada de ChatGPT la Inteliencia Artificial generativa se ha puesto de moda y ha empezado a utilizarse en casi todos los trabajos que requieren crear nuevos contenidos e ideas, como conversaciones, textos, imágenes, videos y música.&#xA;Como cualquier otro tipo de inteligencia artificial, la IA generativa se basa en modelos matemáticos de aprendizaje automático (machine learning). ChatGPT por ejemplo, es una gigantesca red neuronal con más de 175 millones de parámetros que se ha entrenado con textos publicados en todo Internet, desde artículos de noticias, pasando por enciclopedias, libros, páginas web y otros documentos.</description>
     </item>
-    
     <item>
       <title>Marketing personalizado</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/marketing-personalizado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/marketing-personalizado/</guid>
-      <description>En el ámbito del comercio electrónico las grandes empresas suelen utilizar algoritmos que clasifican a los clientes en distintos perfiles según sus compras o las páginas web que visita, para ofrecerle publicidad personalizada.
-Amazon, por ejemplo, utiliza utiliza técnicas de minería de datos para establecer perfiles de clientes en función de los productos que cada usuario visita o compra, y ofrecerle así otros productos similares o relacionados.</description>
+      <description>En el ámbito del comercio electrónico las grandes empresas suelen utilizar algoritmos que clasifican a los clientes en distintos perfiles según sus compras o las páginas web que visita, para ofrecerle publicidad personalizada.&#xA;Amazon, por ejemplo, utiliza utiliza técnicas de minería de datos para establecer perfiles de clientes en función de los productos que cada usuario visita o compra, y ofrecerle así otros productos similares o relacionados.</description>
     </item>
-    
     <item>
       <title>Modelización de enfermedades</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/modelizacion-enfermedades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/modelizacion-enfermedades/</guid>
       <description>Otra aplicación médica es el estudio del desarrollo de enfermedades mediante modelos matemáticos, como por ejemplo el uso de modelos depredador-presa basados en ecuaciones en derivadas parciales para explorar la tendencia al crecimiento rápido de ciertos tipos de tumores malignos.</description>
     </item>
-    
     <item>
       <title>Navegadores</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/navegadores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/navegadores/</guid>
       <description>Los navegadores de nuestros teléfonos móviles o de nuestros vehículos utilizan potentes algoritmos para buscar el mejor camino entre dos puntos geográficos. Estos algoritmos representan las ubicaciones mediante vértices de un grafo, mientras que los caminos se representan como los arcos entre estos vértices. La determinación del camino óptimo depende de múltiples factores, como el medio de transporte, el tráfico actual, el consumo energético, las emisiones de CO2, y para encontrarlo se utilizan técnicas de optimización con múltiples restricciones.</description>
     </item>
-    
     <item>
       <title>Optimización de insumos</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/ganaderia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/ganaderia/</guid>
-      <description>La gestión de una granja lechera depende múltiples factores como la lluvia, la cantidad de pastos disponibles o el precio de los sustitutos (soja o maiz).
-Los ingenieros matemáticos de la universidad de Auckland han desarrollado un algoritmo basado en Programación Dinámica Dual Estocástica para optimizar el uso del agua y otros insumos en la producción de leche.</description>
+      <description>La gestión de una granja lechera depende múltiples factores como la lluvia, la cantidad de pastos disponibles o el precio de los sustitutos (soja o maiz).&#xA;Los ingenieros matemáticos de la universidad de Auckland han desarrollado un algoritmo basado en Programación Dinámica Dual Estocástica para optimizar el uso del agua y otros insumos en la producción de leche.</description>
     </item>
-    
     <item>
       <title>Optimización de procesos de fabricación</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/optimizaci%C3%B3n-fabricacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/optimizaci%C3%B3n-fabricacion/</guid>
-      <description>Uno de los problemas más comunes en la fabricación de cualquier producto es la optimización de los recursos para obtener el máximo beneficio con el menor coste.
-En el caso de la fabricación de fármacos, por ejemplo, como por ejemplo fármacos, el proceso depende de múltiples parámetros que interactúan entre sí. Para determinar la combinación de valores óptima para el proceso de fabricación (minimización de coste y maximización de la eficacia del fármaco) se utilizan técnicas analíticas para obtener soluciones exactas o, cuando la complejidad del problema no lo permite, técnicas de simulación para obtener soluciones aproximadas.</description>
+      <description>Uno de los problemas más comunes en la fabricación de cualquier producto es la optimización de los recursos para obtener el máximo beneficio con el menor coste.&#xA;En el caso de la fabricación de fármacos, por ejemplo, como por ejemplo fármacos, el proceso depende de múltiples parámetros que interactúan entre sí. Para determinar la combinación de valores óptima para el proceso de fabricación (minimización de coste y maximización de la eficacia del fármaco) se utilizan técnicas analíticas para obtener soluciones exactas o, cuando la complejidad del problema no lo permite, técnicas de simulación para obtener soluciones aproximadas.</description>
     </item>
-    
     <item>
       <title>Optimización logística</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/optimizacion-logistica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/optimizacion-logistica/</guid>
-      <description>Hoy en día las empresas como Amazon o Uber organizan sus procesos de reparto mediante algoritmos matemáticos basados en el análisis de grafos para optimizar costes, rapidez y satisfacción de los clientes.
-Un ejemplo de ello es la optimización de las rutas de los autobuses escolares. En 2017 las escuelas públicas de Boston plantearon un reto para disminuir el número de autobuses en las rutas escolares y mejorar la calidad de vida de los estudiantes y sus familias mejorando sus horarios académicos.</description>
+      <description>Hoy en día las empresas como Amazon o Uber organizan sus procesos de reparto mediante algoritmos matemáticos basados en el análisis de grafos para optimizar costes, rapidez y satisfacción de los clientes.&#xA;Un ejemplo de ello es la optimización de las rutas de los autobuses escolares. En 2017 las escuelas públicas de Boston plantearon un reto para disminuir el número de autobuses en las rutas escolares y mejorar la calidad de vida de los estudiantes y sus familias mejorando sus horarios académicos.</description>
     </item>
-    
     <item>
       <title>Predecir el comportamiento de los clientes</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/comportamiento-clientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/comportamiento-clientes/</guid>
       <description>Las técnicas de minería de datos permiten reconocer patrones en grandes volúmenes de datos. Por ejemplo, el BBVA Bancomer analizó las transacciones en cajeros automáticos y puntos de venta (con tarjeta) de más de 100.000 clientes para desarrollar modelos de actividad y conducta.</description>
     </item>
-    
     <item>
       <title>Predicción de fenómenos climáticos</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/meteorolog%C3%ADa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/meteorolog%C3%ADa/</guid>
-      <description>La ingeniería Matemática juega también un papel transcendental en la predicción de fenómenos meteorológicos y más recientemente en la predicción de las consecuencias del cambio climático.
-La Agencia Europea de Meteorología utiliza técnicas de minería de datos para reconocer patrones meteorológicos, ecuaciones diferenciales para explicar la dinámica de los fenómenos climáticos e inferencia causal para predecir sus consecuencias.</description>
+      <description>La ingeniería Matemática juega también un papel transcendental en la predicción de fenómenos meteorológicos y más recientemente en la predicción de las consecuencias del cambio climático.&#xA;La Agencia Europea de Meteorología utiliza técnicas de minería de datos para reconocer patrones meteorológicos, ecuaciones diferenciales para explicar la dinámica de los fenómenos climáticos e inferencia causal para predecir sus consecuencias.</description>
     </item>
-    
     <item>
       <title>Predicción del efecto de fármacos</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/biologia-molecular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/biologia-molecular/</guid>
-      <description>La biología molecular utiliza modelos basados en ecuaciones diferenciales a diferentes escalas para predecir el efecto de los medicamentos en distintos órganos.
-Por ejemplo, la empresa biotecnológica United Therapeutics utiliza este tipo de modelos para predecir el efecto de un fármaco vasodilatador mediante el modelado de su efecto en las redes de reacciones bioquímicas dentro de las células del músculo liso, y luego lo combinan con un modelo CFD de flujo sanguíneo para predecir resultados clínicos como la presión arterial y la resistencia vascular.</description>
+      <description>La biología molecular utiliza modelos basados en ecuaciones diferenciales a diferentes escalas para predecir el efecto de los medicamentos en distintos órganos.&#xA;Por ejemplo, la empresa biotecnológica United Therapeutics utiliza este tipo de modelos para predecir el efecto de un fármaco vasodilatador mediante el modelado de su efecto en las redes de reacciones bioquímicas dentro de las células del músculo liso, y luego lo combinan con un modelo CFD de flujo sanguíneo para predecir resultados clínicos como la presión arterial y la resistencia vascular.</description>
     </item>
-    
     <item>
       <title>Reconocimiento de imágenes</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/reconocimiento-imagenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/reconocimiento-imagenes/</guid>
-      <description>Una aplicación donde las redes neuronales profundas (deep learning) sobresalen es en el reconocimiento de imágenes. Una red neuronal es una modelo matemático computacional que trata de reproducir el sistema neuronal humano. La red neuronal se entrena proporcionándole imágenes previamente clasificadas y aprende a clasificar nuevas imágenes.
-El reconocimiento automático de imágenes tiene actualmente multitud de aplicaciones, como es el caso del reconocimiento facial para garantizar el acceso seguro a un recurso, la detección de tumores en radiografías, el reconocimiento óptico de caracteres (OCR) en textos escritos a mano, la identificación de los obstáculos y la señalización en un vehículo autónomo, detección de objetos estelares en el cielo profundo o detección del estrés hídrico de una plantación mediante imágenes infrarrojas.</description>
+      <description>Una aplicación donde las redes neuronales profundas (deep learning) sobresalen es en el reconocimiento de imágenes. Una red neuronal es una modelo matemático computacional que trata de reproducir el sistema neuronal humano. La red neuronal se entrena proporcionándole imágenes previamente clasificadas y aprende a clasificar nuevas imágenes.&#xA;El reconocimiento automático de imágenes tiene actualmente multitud de aplicaciones, como es el caso del reconocimiento facial para garantizar el acceso seguro a un recurso, la detección de tumores en radiografías, el reconocimiento óptico de caracteres (OCR) en textos escritos a mano, la identificación de los obstáculos y la señalización en un vehículo autónomo, detección de objetos estelares en el cielo profundo o detección del estrés hídrico de una plantación mediante imágenes infrarrojas.</description>
     </item>
-    
     <item>
       <title>Segmentación de clientes</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/segmentacion-clientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/segmentacion-clientes/</guid>
-      <description>Una aplicación típica en cualquier empresa es a segmentación de clientes.
-En el mundo de las telecomunicaciones, por ejemplo, la empresa MAS Movil aplica modelos matemáticos sobre su cartera de clientes para detectar patrones de conducta. Estos modelos son capaces de identificar el conjunto de clientes propensos a la fuga, sobre los cuales se tomarán acciones de retención maximizando la satisfacción del cliente, así como el beneficio para la empresa.</description>
+      <description>Una aplicación típica en cualquier empresa es a segmentación de clientes.&#xA;En el mundo de las telecomunicaciones, por ejemplo, la empresa MAS Movil aplica modelos matemáticos sobre su cartera de clientes para detectar patrones de conducta. Estos modelos son capaces de identificar el conjunto de clientes propensos a la fuga, sobre los cuales se tomarán acciones de retención maximizando la satisfacción del cliente, así como el beneficio para la empresa.</description>
     </item>
-    
     <item>
       <title>Valoración de instrumentos financieros derivados</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/derivados-financieros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/derivados-financieros/</guid>
       <description>En el ámbito de los mercados financieros se usan modelos matemáticos para predecir el valor de determinados instrumentos financieros, como por ejemplo el modelo Black-Scholes-Merton (premio Nobel 1997), basado en ecuaciones diferenciales, que se utiliza para valorar opciones, que son activos financieros cuyo valor depende del precio de otro activo subyacente.</description>
     </item>
-    
     <item>
       <title>Valoración de inumuebles</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/valoracion-inmuebles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/valoracion-inmuebles/</guid>
       <description>La valoración de inmuebles y el coste de los alquileres pueden ser perfectamente puestos en equivalencia mediante modelos matemáticos a través de una renta perpetua. Si asumimos que un inmueble tiene una vida indefinida, el valor actual de los alquileres cobrados puede perfectamente identificarnos si un inmueble está por encima o por debajo de su valor teórico y, por tanto, indicarnos si es o no una oportunidad de compra.</description>
     </item>
-    
   </channel>
 </rss>

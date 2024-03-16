@@ -1,2 +1,2 @@
 #!/bin/sh
-hugo -d docs
+/opt/hugo/hugo -d docs
