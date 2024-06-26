@@ -73,3 +73,12 @@ date: 2023-09-01
     <embed type="text/html" src="https://ekuatio.com/la-importancia-de-las-matematicas-en-la-energia-y-en-el-medio-ambiente/" width="800" height="600">
     {{< /rawhtml >}}
 
+## Informe de CCOO sobre la empleabilidad según formación
+
+    {{< rawhtml >}}
+    <embed type="text/html" src="https://datawrapper.dwcdn.net/HyDmY/3/" width="800" height="600">
+    {{< /rawhtml >}}
+
+    {{< rawhtml >}}
+    <embed type="text/html" src="https://datawrapper.dwcdn.net/7bo5b/1/" width="800" height="600">
+    {{< /rawhtml >}}
