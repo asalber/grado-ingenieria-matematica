@@ -29,6 +29,13 @@
       <description>Todos los buscadores de información en Internet utilizan sofisticados algoritmos de búsquedas para obtener un ranking de con las páginas más relevantes según los términos introducidos en las búsquedas.&#xA;Google, por ejemplo utiliza su famoso algoritmo PageRank donde cada página web representa un nodo de un gigantesco grafo de miles de millones de nodos, y los hipervínculos de las páginas web son enlaces entre estos nodos, de manera que una página tiene mayor relevancia cuanto más enlaces llegan a ella.</description>
     </item>
     <item>
+      <title>Cadenas de bloques (blockchain)</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/cadenas-bloques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/cadenas-bloques/</guid>
+      <description>Las cadenas de bloques (o blockchain en inglés) son una tecnología de almacenamiento y transmisión de datos que opera como un registro distribuido, seguro y transparente. Cada bloque en la cadena contiene una lista de transacciones o datos que están validados y enlazados con el bloque anterior mediante un hash criptográfico. Esto forma una secuencia (o cadena) que no puede ser modificada sin alterar todos los bloques posteriores, lo que hace que la blockchain sea resistente a manipulaciones y muy segura.</description>
+    </item>
+    <item>
       <title>Creación y gestión de carteras</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/gestion-carteras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

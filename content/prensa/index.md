@@ -27,14 +27,6 @@ date: 2023-09-01
 
 ---
 
-## [¿Porqué los matemáticos están tan solicitados?](https://www.lavanguardia.com/vida/formacion/20210315/6375507/matematicas-sector-solicitado-empresas-big-data-resolucion-problemas.html)
-
-    {{< rawhtml >}}
-    <embed type="text/html" src="https://www.lavanguardia.com/vida/formacion/20210315/6375507/matematicas-sector-solicitado-empresas-big-data-resolucion-problemas.html" width="800" height="600">
-    {{< /rawhtml >}}
-
----
-
 ## [¿Te gustan las Matemáticas? Son el futuro del empleo digital](https://www.lavozdegalicia.es/noticia/reto-digital/empleo/2023/04/13/gustan-matematicas-futuro-empleo-digital/00031681379378675789364.htm)
 
     {{< rawhtml >}}
@@ -63,6 +55,14 @@ date: 2023-09-01
 
     {{< rawhtml >}}
     <embed type="text/html" src="https://www.noviasalcedo.es/las-matematicas-una-carrera-con-futuro/" width="800" height="600">
+    {{< /rawhtml >}}
+
+---
+
+## [¿Porqué los matemáticos están tan solicitados?](https://www.lavanguardia.com/vida/formacion/20210315/6375507/matematicas-sector-solicitado-empresas-big-data-resolucion-problemas.html)
+
+    {{< rawhtml >}}
+    <embed type="text/html" src="https://www.lavanguardia.com/vida/formacion/20210315/6375507/matematicas-sector-solicitado-empresas-big-data-resolucion-problemas.html" width="800" height="600">
     {{< /rawhtml >}}
 
 ---
