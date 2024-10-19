@@ -84,11 +84,11 @@ TERCERO_2S_ACF --|> CUARTO_ACF
 
 ## Plan de estudios de la Mención en Inteligencia Artificial
 
-![Plan de Estudios Mención en Inteligencia Artificial](/images/plan-estudios/plan-estudios-gim-ia.png)
+![Plan de Estudios Mención en Inteligencia Artificial](images/plan-estudios/plan-estudios-gim-ia.png)
 
 ## Plan de estudios de la Mención en Análisis Cuantitativo y Finanzas
 
-![Plan de Estudios Mención en Análisis Cuantitativo y Finanzas](/images/plan-estudios/plan-estudios-gim-finanzas.png)
+![Plan de Estudios Mención en Análisis Cuantitativo y Finanzas](images/plan-estudios/plan-estudios-gim-finanzas.png)
 
 
 https://www.uspceu.com/oferta/grado/ingenieria-matematica/plan-estudios
