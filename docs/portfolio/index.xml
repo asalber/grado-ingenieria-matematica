@@ -78,6 +78,13 @@
       <description>La lucha contra pérdida de la biodiversidad es otro de los grandes retos de nuestra era. Evaluar la pérdida de biodiversidad requiere medir la diversidad no solo de especies, sino también de diferentes genes dentro de poblaciones individuales, para ver si esta diversidad genética también se está perdiendo. El volumen de información a estudiar es tan grande que solo se puede abordar mediante técnicas de minería de datos masivos (big data).</description>
     </item>
     <item>
+      <title>Geofísica y cartografía digital</title>
+      <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/geofisica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/geofisica/</guid>
+      <description>La empresa Xcalibur Smart Mapping se dedica a realizar estudios geofísicos aéreos y cartografía de recursos naturales. Utilizan tecnología avanzada de teledetección como la gravimetría, la magnetometría y la espectroscopía aéreas, así como imágenes de satélite para recopilar datos geoespaciales y crear mapas detallados que ayudan en la exploración de minerales, hidrocarburos y otros recursos naturales.&#xA;En el análisis de los datos geofísicos y de las imágenes por satélite se utilizan modelos basados en redes neuronales profundas para la integración de múltiples fuentes de datos (magnético, gravimétrico, hiperespectral, satélite) y extracción de patrones complejos, así como redes neuronales convolucionales para segmentación espacial, la interpretación de estructuras geológicas y la clasificación objetos geológicos.</description>
+    </item>
+    <item>
       <title>Gestión de la demanda eléctrica</title>
       <link>https://aprendeconalf.es/grado-ingenieria-matematica/portfolio/demanda-electrica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
