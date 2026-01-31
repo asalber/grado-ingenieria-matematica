@@ -1,6 +1,6 @@
 ---
 title: Recortes de prensa
-date: 2023-09-01
+date: 2025-09-01
 ---
 
 ## [Un nuevo estudio de la UNESCO destaca el papel vital de los matemáticos para afrontar los retos contemporáneos](https://www.unesco.org/es/articles/un-nuevo-estudio-de-la-unesco-destaca-el-papel-vital-de-los-matematicos-para-afrontar-los-retos)
