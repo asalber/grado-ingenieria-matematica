@@ -117,3 +117,7 @@ url = "https://www.linkedin.com/school/universidad-san-pablo-ceu/"
 [[params.socialIcon]]
 icon = "ion-social-twitter"
 url = "https://twitter.com/USPCEU"
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
