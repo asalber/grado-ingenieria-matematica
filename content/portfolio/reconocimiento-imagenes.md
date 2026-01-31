@@ -1,9 +1,9 @@
 ---
-title: Reconocimiento de imágenes
+title: Reconocimiento facial
 type: portfolio
 date: 
 description : 
-caption: Reconocimiento facial
+caption: Ciberseguridad
 image: images/portfolio/reconocimiento-facial.jpg
 category: ["Seguridad", "Medicina", "Meteorología", "Ciencias Ambientales"]
 lang: es

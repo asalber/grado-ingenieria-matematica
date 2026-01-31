@@ -3,7 +3,7 @@ title: Inteligencia Artificial generativa
 type: portfolio
 date: 
 description : 
-caption: Chat GPT
+caption: Inteligencia Artificial
 image: images/portfolio/chatgpt.png
 category: ["Docencia", "Programación", "Ingeniería", "Marketing", "Periodismo", "Diseño", "Comercio", "Logística", "Administración de empresas"]
 lang: es

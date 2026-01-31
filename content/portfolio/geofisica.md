@@ -3,7 +3,7 @@ title: Geofísica y cartografía digital
 type: portfolio
 date: 
 description : 
-caption: Comercio electrónico
+caption: Cartografía digital
 image: images/portfolio/geofisica.jpg
 category: ["Geofísica", "Cartografía digital"]
 lang: es-ES

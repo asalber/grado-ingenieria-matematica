@@ -3,7 +3,7 @@ title: Análisis de sentimientos
 type: portfolio
 date: 
 description : 
-caption: Comercio electrónico
+caption: Marketing
 image: images/portfolio/analisis-sentimientos.jpg
 category: ["Comercio", "Banca", "Telecomunicaciones"]
 lang: es-ES
